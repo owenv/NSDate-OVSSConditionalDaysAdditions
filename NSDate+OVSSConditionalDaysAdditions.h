@@ -1,9 +1,8 @@
 //
 //  NSDate+OVSSConditionalDaysAdditions.h
-//  Core Data RunLog
 //
-//  Created by John Voorhees on 4/28/11.
-//  Copyright 2011 __MyCompanyName__. All rights reserved.
+//  Created by Owen Voorhees on 4/28/11.
+//  Copyright 2011 Owen Voorhees. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
