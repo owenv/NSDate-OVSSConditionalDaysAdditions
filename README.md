@@ -1,6 +1,10 @@
 NSDate-OVSSConditionalDaysAdditions
 ===================================
 
+# Warning: This project is no longer supported and contains known bugs. It should not be used in shipping software
+
+===================================
+
 A category on NSDate that calculates dates that might not be constant, like the beginning of the current week, month, or year.
 
 Usage Examples
